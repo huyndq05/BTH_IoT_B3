@@ -110,9 +110,6 @@ giám sát.
 - Bài 3: GET đọc được trạng thái; PUT `ON`/`OFF` cập nhật trạng thái; các client
   Observe nhận được thông báo khi trạng thái thay đổi.
 
-Để tạo minh chứng nộp bài, chạy các lệnh trên và chụp màn hình terminal hoặc
-sao chép log thực tế từ các lần chạy vào hồ sơ nộp bài. Không đưa log giả vào
-README.
 
 ## Cấu trúc thư mục
 
